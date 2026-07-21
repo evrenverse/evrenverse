@@ -22,4 +22,5 @@
 
 - 🧠 Fresh off my M.Sc. thesis: an agentic workflow that reads tenders, calculates bids, and assembles the paperwork — evaluated on the real thing, not a benchmark
 - 🛠️ Growing the agent-native toolbelt: if an agent can't drive it from the command line, it's not finished
+- 🔒 Big on privacy: local-first, self-hosted, mail through Proton — my agents work for me, my data stays with me
 - ☕ Usually found somewhere between Nürnberg, a terminal, and one Claude session too many
