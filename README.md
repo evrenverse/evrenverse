@@ -14,7 +14,6 @@
 ## Start Here
 
 - 🎓 **[agentic-tendering-research](https://github.com/evrenverse/agentic-tendering-research)** - my M.Sc. research: LLM agents vs. German public-tendering bureaucracy, measured on real tenders and live portals
-- 🔁 **[claude-rotate](https://github.com/evrenverse/claude-rotate)** - run Claude Code around the clock across multiple subscriptions
 - 📊 **[claude-statusline](https://github.com/evrenverse/claude-statusline)** - the three lines of context every Claude Code session deserves, zero dependencies
 - 📬 **[proton-mail-bridge-cli](https://github.com/evrenverse/proton-mail-bridge-cli)** - Proton Mail for agents: scriptable, JSON-speaking, automation-ready
 
